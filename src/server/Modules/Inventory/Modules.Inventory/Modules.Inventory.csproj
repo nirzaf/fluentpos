@@ -11,4 +11,8 @@
     <NoWarn>1701;1702;1591</NoWarn>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Abp.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
 </Project>
